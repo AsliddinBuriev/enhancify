@@ -39,7 +39,7 @@
 ## UX documentation
 
 ## Architecture design documentation
-
+   - [Database Schema](https://dbdiagram.io/d/6265c6761072ae0b6add3070)
 ## Testing documentation
 
 ## Process Documentation
