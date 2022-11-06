@@ -40,7 +40,7 @@
 
 ## Architecture design documentation
    **[Database Schema](https://dbdiagram.io/d/6265c6761072ae0b6add3070)**
-   ![Tux, the Linux mascot](https://dbdiagram.io/embed/6265c6761072ae0b6add3070)
+   ![Database Schema!](https://dbdiagram.io/embed/6265c6761072ae0b6add3070)
 ## Testing documentation
 
 ## Process Documentation
