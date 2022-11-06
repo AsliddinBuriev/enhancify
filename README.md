@@ -39,6 +39,8 @@
 ## UX documentation
 
 ## Architecture design documentation
+   **[Database Schema](https://dbdiagram.io/d/6265c6761072ae0b6add3070)**
+   <iframe width="560" height="315" src='https://dbdiagram.io/embed/6265c6761072ae0b6add3070'> </iframe>
 
 ## Testing documentation
 
